@@ -1,0 +1,5 @@
+.主要问题:房间为空了应该 报错找不到 应该是s和t的问题
+.全用内存防止问题查不出来
+.sourceid targeid不能直接用来用 必须确认房间是否存在 
+.debugs debugt设置一个爬为debug 它的s和t 如果不为空 rolekey
+  就设置全局debugsid debugtid debugroom 开始时执行

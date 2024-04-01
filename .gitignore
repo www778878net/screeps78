@@ -1,0 +1,7 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ExpressApp1/ExpressApp1/node_modules
+/screeps/screeps/node_modules
+.vs/
